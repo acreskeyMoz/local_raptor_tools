@@ -1,4 +1,10 @@
-## R plots and summaries from collections of raptor .json
+## Local raptor tooling: 
+
+### Running local tests
+
+• Customize and run the include `run_raptor.py` and `tests.txt`
+
+###R plots and summaries from collections of raptor .json
 
 Copy your raptor results folders over and run an R script to generate pretty graphs.
 
