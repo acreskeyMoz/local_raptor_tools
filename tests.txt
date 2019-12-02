@@ -1,0 +1,2 @@
+raptor-tp6-amazon-chrome-cold
+raptor-tp6-sheets-firefox-cold
